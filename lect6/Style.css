@@ -1,0 +1,67 @@
+*{ background-color: rgb(47, 54, 61);}
+    
+
+.Multiply{
+    width: 700px;
+    height: 300px; 
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+  left: 27%;
+  transform: translate(0, -50%);
+  padding: 10px;
+
+}
+
+.Multiply h1{
+    margin: 0.5px 0;
+    width: 599px;
+    height: 160px;    
+    border: 1px 1px 1px 1px;  
+    font-family: 'Franklin';
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 100px;
+    text-align: center;   
+    color: #e7f2fc;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+   
+   
+
+}
+
+.Multiply p{
+    text-align: center;
+    font-family: 'Franklin';
+    color: #f1f132;
+    font-size: 20px;  
+    border: 1px 1px 1px 1px; 
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.Multiply button{
+    font-family: 'Franklin';
+    text-align: center;
+    color: #2c384d;
+    background-color: #8fb0c2;
+    width: 150px;
+    height:  60px;
+    border-radius: 30px;
+    border: 1px;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 25px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+}
